@@ -1,6 +1,7 @@
-token = '00000000:XXXXXXXXXX_XXXXXXXXXXXXXXXXXXXXXXXX'
+#coding:utf-8
+token = '1145141919:810893_364364'
 default_emoticon = '( >  < )'
 react_emoticons = ['⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄', '(≧ ﹏ ≦)', '(*/ω＼*)', 'ヽ(*。>Д<)o゜', '(つ ﹏ ⊂)']
 react_rate = 5
 other_emoticon = '| ω・`)'
-prpr_back = ['kotomei', 'RikkaW', 'WordlessEcho', 'Yeatce', 'Duang', 'iTZQing', 'hyx01', 'fython', 'Cn_47mP', 'rikakomoe']
+prpr_back = ['Tolocan', 'NimaQu']
